@@ -65,3 +65,4 @@ print()
 # Print out the total difference between the old salary and the new salary
 print(f"Total increase in salary: ${total_increase:,.2f}")
 
+

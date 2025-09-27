@@ -1,0 +1,12 @@
+# Ignore virtual environment
+quizVE/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system files
+.DS_Store
